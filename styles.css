@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+img {
+    display: block;
+    margin: 20px 0;
+}
